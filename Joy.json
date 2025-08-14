@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Joy-bot",
+  "BOTNAME": "Arafat-bot",
   "PREFIX": ".",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100001435123762"
+    "61564266045968"
   ],
   "ADMINBOT": [
-    "100001435123762",
+    "61564266045968",
     ""
   ],
   "OWNER": ["100001435123762"], 
