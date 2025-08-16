@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "ARAFAT-BOT",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "react": "☠️",
   "OPERATOR": [
     "",
