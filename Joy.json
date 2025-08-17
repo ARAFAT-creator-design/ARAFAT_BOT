@@ -9,8 +9,8 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "𝐀𝐑𝐀𝐅𝐀𝐓-𝐁𝐎𝐓",
-  "PREFIX": ".",
+  "BOTNAME": "ARAFAT-BOT",
+  "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
